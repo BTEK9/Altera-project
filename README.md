@@ -1,4 +1,5 @@
-# Alpha-Site-Avalon
+#Altera Project
+## Alpha-Site-Avalon
 Project canceled on being uploaded on the repository due to development issues as 10-bit counter is still under development. 
 
 Project might be uploaded sometimes in the middle of the year if things go according to the plan. No deadline set so will work only on my free time as am in no rush. 
